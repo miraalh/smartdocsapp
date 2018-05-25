@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Documents" max_length="40" name="x_221929_smartdocs_documents" type="collection">
+        <element label="Character count" max_length="40" name="u_character_count" type="integer"/>
+        <element label="Text" mandatory="true" max_length="65536" name="u_html" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="500" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" mandatory="true" max_length="60" name="u_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" mandatory="true" max_length="40" name="u_type" type="string">
+            <choice>
+                <element label="Accounting" sequence="0" value="accounting"/>
+                <element label="Facilities" sequence="1" value="facilities"/>
+                <element label="Human Resources" sequence="2" value="hr"/>
+                <element label="Legal" sequence="3" value="legal"/>
+            </choice>
+        </element>
+        <element label="Word count" max_length="40" name="u_word_count" type="integer"/>
+    </element>
+</database>
