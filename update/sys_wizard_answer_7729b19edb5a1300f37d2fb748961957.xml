@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Documents2</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Documents2</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">7f1df057042113006517fb8f196147c1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-28 03:22:04</sys_created_on>
+        <sys_id>7729b19edb5a1300f37d2fb748961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Documents2</sys_name>
+        <sys_package display_value="SmartDocs" source="x_221929_smartdocs">639b5661dbd61300f37d2fb748961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SmartDocs">639b5661dbd61300f37d2fb748961981</sys_scope>
+        <sys_update_name>sys_wizard_answer_7729b19edb5a1300f37d2fb748961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-28 03:22:04</sys_updated_on>
+        <table/>
+        <target_url>x_221929_smartdocs_documents2.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

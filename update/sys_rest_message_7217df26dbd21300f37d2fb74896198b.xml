@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>this http request connects to Google Cloud Vision to convert image to text</description>
+        <name>Google Cloud Vision request</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://vision.googleapis.com/v1/images:annotate=AIzaSyCmGfMXeQP_7h5F5LupjSC7plnjwlVRpB8</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-29 05:19:03</sys_created_on>
+        <sys_id>7217df26dbd21300f37d2fb74896198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google Cloud Vision request</sys_name>
+        <sys_package display_value="SmartDocs" source="x_221929_smartdocs">639b5661dbd61300f37d2fb748961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SmartDocs">639b5661dbd61300f37d2fb748961981</sys_scope>
+        <sys_update_name>sys_rest_message_7217df26dbd21300f37d2fb74896198b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-29 05:19:03</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

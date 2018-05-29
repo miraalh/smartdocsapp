@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e20bf1dedb5a1300f37d2fb748961917" sys_domain="global" table="x_221929_smartdocs_documents2" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 03:30:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a0bf1dedb5a1300f37d2fb748961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_221929_smartdocs_documents2" name="x_221929_smartdocs_documents2" sys_domain="global" view="Default view">e20bf1dedb5a1300f37d2fb748961917</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_221929_smartdocs_documents2" sys_domain="global" view="Default view">bf893d5edb5a1300f37d2fb748961928</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 03:30:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 03:30:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>760bf1dedb5a1300f37d2fb74896191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_221929_smartdocs_documents2" name="x_221929_smartdocs_documents2" sys_domain="global" view="Default view">e20bf1dedb5a1300f37d2fb748961917</sys_ui_form>
+            <sys_ui_section caption="Content" display_value="Content" name="x_221929_smartdocs_documents2" sys_domain="global" view="Default view">e60bf1dedb5a1300f37d2fb748961916</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 03:30:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_221929_smartdocs_documents2</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 03:30:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e20bf1dedb5a1300f37d2fb748961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_221929_smartdocs_documents2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SmartDocs" source="x_221929_smartdocs">639b5661dbd61300f37d2fb748961981</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SmartDocs">639b5661dbd61300f37d2fb748961981</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e20bf1dedb5a1300f37d2fb748961917</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 03:30:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

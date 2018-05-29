@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="Content" section_id="b6476e69dbd61300f37d2fb7489619b6" sys_domain="global" table="x_221929_smartdocs_documents" version="3" view="">
+    <sys_ui_section caption="Content" section_id="e60bf1dedb5a1300f37d2fb748961916" sys_domain="global" table="x_221929_smartdocs_documents2" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_plaintext</element>
+            <element>description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-29 02:18:34</sys_created_on>
-            <sys_id>ab347a22db921300f37d2fb7489619d5</sys_id>
+            <sys_created_on>2018-05-28 04:21:21</sys_created_on>
+            <sys_id>04c64e56db9a1300f37d2fb74896196f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Content" display_value="Content" name="x_221929_smartdocs_documents" sys_domain="global" view="Default view">b6476e69dbd61300f37d2fb7489619b6</sys_ui_section>
+            <sys_ui_section caption="Content" display_value="Content" name="x_221929_smartdocs_documents2" sys_domain="global" view="Default view">e60bf1dedb5a1300f37d2fb748961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-29 02:18:34</sys_updated_on>
+            <sys_updated_on>2018-05-28 04:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Content</caption>
             <header>false</header>
-            <name>x_221929_smartdocs_documents</name>
+            <name>x_221929_smartdocs_documents2</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-25 22:48:05</sys_created_on>
+            <sys_created_on>2018-05-28 03:30:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b6476e69dbd61300f37d2fb7489619b6</sys_id>
+            <sys_id>e60bf1dedb5a1300f37d2fb748961916</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Content</sys_name>
             <sys_overrides/>
             <sys_package display_value="SmartDocs" source="x_221929_smartdocs">639b5661dbd61300f37d2fb748961981</sys_package>
             <sys_policy/>
             <sys_scope display_value="SmartDocs">639b5661dbd61300f37d2fb748961981</sys_scope>
-            <sys_update_name>sys_ui_section_b6476e69dbd61300f37d2fb7489619b6</sys_update_name>
+            <sys_update_name>sys_ui_section_e60bf1dedb5a1300f37d2fb748961916</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-25 22:48:05</sys_updated_on>
+            <sys_updated_on>2018-05-28 03:30:11</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
